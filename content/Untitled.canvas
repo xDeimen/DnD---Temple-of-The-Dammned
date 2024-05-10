@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"7926610a3d3e48a1","type":"file","file":"content/Malarius.md","x":-680,"y":-520,"width":400,"height":400},
-		{"id":"d3b99ab2ba7a0560","type":"text","text":"Canvas","x":-125,"y":-30,"width":250,"height":60}
-	],
-	"edges":[]
-}

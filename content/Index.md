@@ -1,1 +1,1 @@
-Regarding this, this is a new stuff
+This is the main page.
