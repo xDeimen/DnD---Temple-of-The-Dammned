@@ -6,23 +6,35 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Untitled</title>
+    <link>https://quartz.jzhao.xyz/Untitled</link>
+    <guid>https://quartz.jzhao.xyz/Untitled</guid>
+    <description></description>
+    <pubDate>Fri, 10 May 2024 21:11:03 GMT</pubDate>
+  </item><item>
+    <title>This is an event</title>
+    <link>https://quartz.jzhao.xyz/This-is-an-event</link>
+    <guid>https://quartz.jzhao.xyz/This-is-an-event</guid>
+    <description></description>
+    <pubDate>Fri, 10 May 2024 21:11:03 GMT</pubDate>
+  </item><item>
     <title>Rio the fast</title>
     <link>https://quartz.jzhao.xyz/Rio-the-fast</link>
     <guid>https://quartz.jzhao.xyz/Rio-the-fast</guid>
     <description></description>
-    <pubDate>Fri, 10 May 2024 21:03:06 GMT</pubDate>
+    <pubDate>Fri, 10 May 2024 21:06:10 GMT</pubDate>
   </item><item>
     <title>Malarius</title>
     <link>https://quartz.jzhao.xyz/Malarius</link>
     <guid>https://quartz.jzhao.xyz/Malarius</guid>
     <description>Rio the fast.</description>
-    <pubDate>Fri, 10 May 2024 21:03:06 GMT</pubDate>
+    <pubDate>Fri, 10 May 2024 21:06:10 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>Regarding this, this is a new stuff.</description>
-    <pubDate>Fri, 10 May 2024 21:03:06 GMT</pubDate>
+    <pubDate>Fri, 10 May 2024 21:06:10 GMT</pubDate>
   </item>
     </channel>
   </rss>
