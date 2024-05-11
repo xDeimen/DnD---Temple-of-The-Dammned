@@ -17,7 +17,6 @@ Not Known yet
 
 ## Photo
 [[Guhring Photo.jpg]]
-
 ---
 
 ## Backstory
