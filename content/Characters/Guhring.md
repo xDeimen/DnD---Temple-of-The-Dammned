@@ -1,1 +1,0 @@
-Guhring aka Maestro is a dude
