@@ -16,7 +16,7 @@ Not Known yet
 ---
 
 ## Photo
-[[content/public/Photos/Characters/Guhring.jpg]]
+[[Guhring Photo.jpg]]
 
 ---
 
