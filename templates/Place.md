@@ -1,49 +1,26 @@
-
 ## Description
-- Location: Not Known yet
-- Relations: 
+- Location:
+- Relations:
 	- Relation 1
 	- Relation 2
-- Race: Not Known yet
-- Class: Not Known yet
-- Age: Not Known yet
-- Height: Not Known yet
+- Race:
+- Class:
+- Age:
+- Height:
 
 ##### General Description:
-Not Known yet
 
-
-
----
 
 ## Photo
-Not Known yet
-Not Known yet
-Not Known yet
 
----
 
 ## Backstory
-Not Known yet
-Not Known yet
-Not Known yet
-
----
 
 
 ## Personality Traits, Motives, Behavior
-Not Known yet
-Not Known yet
-Not Known yet
 
----
 
 ## How did the party encounter this character?
-Not Known yet
-Not Known yet
-Not Known yet
-
----
 
 
 ## Quest Log
@@ -57,12 +34,12 @@ Not Known yet
 #### General Information
 
 >[!info]
->- **AC:** Not Known yet
->- **HP:** Not Known yet
->- **Size:** Not Known yet
->- **Speed:** Not Known yet
->- **Skills:** Not Known yet
->- **Senses:** Not Known yet
+>- **AC:**
+>- **HP:**
+>- **Size:**
+>- **Speed:**
+>- **Skills:**
+>- **Senses:**
 
 #### Stat table
 
@@ -73,9 +50,7 @@ Not Known yet
 
 #### Traits
 
-Not Known yet 
 
 
 #### Actions
 
-Not Known yet 
