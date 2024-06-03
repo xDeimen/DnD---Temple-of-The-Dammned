@@ -1,11 +1,11 @@
 
 ## Description
-- Location: Not Known yet
-- Relations: Not Known yet
+- Location: [[Acid Wastelands]]
+- Relations: 
 	- Relation 1
 	- Relation 2
-- Race: Not Known yet
-- Class: Not Known yet
+- Race: Human
+- Class: Druid
 - Age: Not Known yet
 - Height: Not Known yet
 
@@ -17,37 +17,34 @@ Not Known yet
 ---
 
 ## Photo
-![[public/public/Photos/Characters-Photos/Virtuosso.png]]
+![[public/public/Photos/Characters-Photos/Voren-the-Alchemist.png]]
 
 
 ---
 
 ## Backstory
-Not Known yet
-Not Known yet
-Not Known yet
+He used to be a pharmacist in the old lands before the [[Corrupted Ones]] came and ravaged the place. He lost his family during the process. He had a daughter and a wife.
 
 ---
 
 
 ## Personality Traits, Motives, Behavior
-Not Known yet
+- Secretive
+- Paranoid
 Not Known yet
 Not Known yet
 
 ---
 
 ## How did the party encounter this character?
-Not Known yet
-Not Known yet
-Not Known yet
+Stumbled upon him in his hidden laboratory inside a cave
 
 ---
 
 
 ## Quest Log
 - Active Quests:
-	- Quest 1
+	- [[Help Voren cure the Acid Wastelands]]
 - Closesd Quests:
 	- Quest 2
 

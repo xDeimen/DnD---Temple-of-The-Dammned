@@ -11,12 +11,15 @@
 - Height: 1.32 cm
 
 ##### General Description:
-Not Known yet
+Small Goblin with pale skin, and yellow neon glowing eyes. Looks really really old.
 
 ---
 
 ## Photo
-[[Guhring Photo.jpg]]
+
+![[Guhring Photo.jpg]]
+
+
 ---
 
 ## Backstory
@@ -41,7 +44,7 @@ The party was traveling through the first layer of the Temple and while entering
 
 ## Quest Log
 - Active Quests:
-	- Quest 1
+	- 
 - Closesd Quests:
 	- NA
 

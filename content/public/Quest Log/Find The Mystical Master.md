@@ -1,0 +1,2 @@
+- [[Guhring]] thinks [[Mystical Master]] is in danger, look for signs of him in the [[Acid Wastelands]]
+- 

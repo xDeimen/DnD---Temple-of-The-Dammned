@@ -7,7 +7,7 @@
 - Class:
 - Age:
 - Height:
-
+test test omg ce tastatura weird imi place tho este usor de prins o sa fie greu sa ma obisnuiesc sa scriu cu ea dar csf n-ai csf astazi si maine vai viata mea
 ##### General Description:
 
 
