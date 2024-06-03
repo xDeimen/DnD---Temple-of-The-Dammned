@@ -19,7 +19,8 @@ Not Known yet
 ## Photo
 
 
-![[public/public/Photos/Characters-Photos/Voren-the-Alchemist.png]]
+![[Voren the Alchemist Photo.jpg]]
+
 
 
 
