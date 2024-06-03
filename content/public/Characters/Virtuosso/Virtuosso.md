@@ -17,7 +17,9 @@ Not Known yet
 ---
 
 ## Photo
+
 ![[public/public/Photos/Characters-Photos/Virtuosso.png]]
+
 
 
 ---
