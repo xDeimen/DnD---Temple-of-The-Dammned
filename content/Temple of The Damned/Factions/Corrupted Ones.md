@@ -3,7 +3,7 @@ The Corrupted Ones are the follower of [[content/Temple of The Damned/Characters
 
 ## Relevant People
 - [[content/Temple of The Damned/Characters/Xenthor|Xenthor]]
-- 
+- [[NammNumeh]] 
 
 ## Emblem
 
