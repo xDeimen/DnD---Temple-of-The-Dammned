@@ -11,7 +11,7 @@ If you are not looking for something specific there will be a series of tags bel
 	- [[Virtuosso]]
 	- [[Hwei]]
 - [[Acid Wastelands]]
-	- [[Voren The Alchemist]]
+	- [[Voren the Alchemist]]
 
 ---
 ### Places
