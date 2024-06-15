@@ -20,7 +20,7 @@ Not Known yet
 
 
 ![[Voren the Alchemist Photo.jpg]]
-![C:\Dnd\DnD---Temple-of-The-Dammned\content\public\Items\Boots of Giant Stepping.jpeg]
+![[C:\Dnd\DnD---Temple-of-The-Dammned\content\public\Items\Boots of Giant Stepping.jpeg]]
 
 
 
