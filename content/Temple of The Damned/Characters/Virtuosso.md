@@ -1,9 +1,9 @@
 
 ## Description
-- Location: Not Known yet
-- Relations: Not Known yet
-	- Relation 1
-	- Relation 2
+- Location: [[Portal Room]] 
+- Relations: 
+	- BF of [[Hwei]] 
+	- Friend of [[Guhring]] 
 - Race: Not Known yet
 - Class: Not Known yet
 - Age: Not Known yet

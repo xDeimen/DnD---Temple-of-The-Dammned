@@ -1,0 +1,3 @@
+- For access to their artefact [[content/Temple of The Damned/Characters/Xenthor|Xenthor]] tasked you with 2 things:
+	 - [ ] Stop [[Voren the Alchemist]] in destroying the generators
+	 - [ ] Help them against their fight with the [[The Nomads]]

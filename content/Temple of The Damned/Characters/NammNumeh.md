@@ -1,7 +1,7 @@
 
 ## Description
 - Location: Not Known yet
-- Relations: Not Known yet
+- Relations: 
 	- Relation 1
 	- Relation 2
 - Race: Not Known yet
@@ -19,8 +19,7 @@ Not Known yet
 ## Photo
 
 
-![[Hwei Photo.jpg]]
-
+![[NammNumeh.jpeg]]
 
 ---
 
@@ -40,9 +39,7 @@ Not Known yet
 ---
 
 ## How did the party encounter this character?
-Not Known yet
-Not Known yet
-Not Known yet
+They Burned down the Corrupted Gate.
 
 ---
 

@@ -1,16 +1,16 @@
 
 ## Description
-- Location: Not Known yet
-- Relations: Not Known yet
-	- Relation 1
-	- Relation 2
-- Race: Not Known yet
-- Class: Not Known yet
-- Age: Not Known yet
-- Height: Not Known yet
+- Location: Corrupted Ones Base
+- Relations: 
+	- He does not have friends
+	- He has lots of enemies
+- Race: Face too distorted to figure out
+- Class: Probably a Wizard of some sort
+- Age: Old as hell
+- Height: 175cm
 
 ##### General Description:
-Not Known yet
+Powerful Toxin mage. Lider of the Corrupted Council. Gatekeeper of the Corrupted Gate. Guardian of the Corrupting Artefact.
 
 
 
@@ -18,16 +18,14 @@ Not Known yet
 
 ## Photo
 
+![[Xenthor.jpg]]
 
-![[Hwei Photo.jpg]]
 
 
 ---
 
 ## Backstory
-Not Known yet
-Not Known yet
-Not Known yet
+Was in the council of this place before this placed was ravaged. Probably the one responsible for this mess.
 
 ---
 
@@ -40,16 +38,14 @@ Not Known yet
 ---
 
 ## How did the party encounter this character?
-Not Known yet
-Not Known yet
-Not Known yet
+After they helped [[NammNumeh]] he sent them to Xenthor because they were curious of the artefact.
 
 ---
 
 
 ## Quest Log
 - Active Quests:
-	- Quest 1
+	- [[Aid the corrupted ones]] 
 - Closesd Quests:
 	- Quest 2
 
