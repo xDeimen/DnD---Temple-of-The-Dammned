@@ -1,6 +1,6 @@
 
 ## Description
-- Location: [[Temple Of The Damned]], [[Portal Room]]
+- Location: [[content/Temple of The Damned/Locations/Temple Of The Damned/Temple Of The Damned]], [[Portal Room]]
 - Relations: 
 	- Friend with [[Virtuosso]]
 	- Friend with [[Hwei]]
